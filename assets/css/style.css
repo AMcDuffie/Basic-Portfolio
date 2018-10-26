@@ -1,0 +1,136 @@
+body {
+    background-color: #efeee7;
+    font-style: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+    margin: 0 auto;
+    padding: 0;
+    }
+
+.contain {
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.textbox {
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+    border-top: solid 1pt #cccccc;
+    padding-top: 20px;
+}
+p {
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.contact-info {
+
+}
+
+.bio-image {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.imageleft {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.imageright {
+    float: lright;
+    width: 200px;
+    height: 200px;
+    margin-right: 1px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-variant-caps: all-petite-caps;
+    width: 250px;
+    height: 60px;
+    position: relative;
+    left: 16%;
+    float: left;
+}
+
+h2 {
+    font-size: 20px;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-variant-caps: all-petite-caps;
+    margin-bottom: 5px;
+    position: relative;
+    left: 3%;
+}
+
+a:link {
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    background-color: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 11pt;
+    font-weight: semi-bold;
+    float: right;
+    position: relative;
+    right: 5%;
+    top: -25px;
+}
+
+li a {
+    display: inline;
+    color: #777777;
+    /*padding: 8px 16px;*/
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+header {
+    background-color: #ffffff;
+    width: 100%;
+    height: 75px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 10pt;
+    text-align: center;
+    line-height: 1.5cm;
+    border-bottom: solid 1pt #cccccc;
+}
+
+#bottompage {
+    background-color: #666666;
+    width: 100%;
+    height: 50px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10pt;
+    text-align: center;
+    line-height: 1.5cm;
+    border-top: solid 4pt #4aaaa5;
+    position: relative;
+    top: 100px;
+}
