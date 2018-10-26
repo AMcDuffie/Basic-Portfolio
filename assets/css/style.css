@@ -157,3 +157,46 @@ header {
     position: relative;
     right: 400px;
 }
+
+#fname {
+    width: 300px;
+    text-overflow: visible;
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 5px;
+    position: relative;
+    left: 3%;
+}
+
+#lname {
+    width: 300px;
+    text-overflow: visible;
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 5px;
+    position: relative;
+    left: 3%;
+}
+
+#message {
+    width: 500px;
+    height: 200px;
+    text-overflow: visible;
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 5px;
+    position: relative;
+    left: 3%;
+}
+
+.formtext {
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 5px;
+    position: relative;
+    left: 3%;
+}
