@@ -167,8 +167,6 @@ header {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     margin-bottom: 5px;
-    position: relative;
-    left: 3%;
 }
 
 #lname {
@@ -178,8 +176,6 @@ header {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     margin-bottom: 5px;
-    position: relative;
-    left: 3%;
 }
 
 #message {
@@ -190,8 +186,6 @@ header {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     margin-bottom: 5px;
-    position: relative;
-    left: 3%;
 }
 
 .formtext {
@@ -199,6 +193,4 @@ header {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     margin-bottom: 5px;
-    position: relative;
-    left: 3%;
 }
