@@ -83,7 +83,6 @@ h2 {
 }
 
 a:link {
-
 }
 
 ul {
@@ -101,16 +100,23 @@ ul {
     top: -25px;
 }
 
-li a {
+
+
+li {
     display: inline;
+    padding: 4px 4px;
+}
+
+li a {
     color: #777777;
-    /*padding: 8px 16px;*/
+    padding: 4px 4px;
     text-decoration: none;
 }
 
 li a:hover {
     background-color: #4aaaa5;
     color: white;
+    padding: 4px 4px;
 }
 
 header {
