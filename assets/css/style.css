@@ -9,18 +9,18 @@ body {
 .contain {
     width: 960px;
     height: 100%;
-    margin: 0 auto;
+    margin: 30px 0px 40px 100px;
     margin-top: 30px;
     background-color: #ffffff;
     padding: 10px;
     overflow: hidden;
+float: left;
+position: relative;
+left: 9%;
 }
 
 .textbox {
-    margin-right: 25px;
-    margin-left: 25px;
-    margin-bottom: 25px;
-    margin-top: 5px;
+    margin: 5px 25px 25px 25px;
     border-top: solid 1pt #cccccc;
     padding-top: 20px;
 }
@@ -39,8 +39,7 @@ p {
     float: left;
     width: 200px;
     height: 200px;
-    margin-right: 10px;
-    margin-bottom: 10px;
+    margin: 0px 20px 10px 20px;
 }
 
 .imageleft {
@@ -134,8 +133,10 @@ header {
     text-align: center;
     line-height: 1.5cm;
     border-top: solid 4pt #4aaaa5;
-    position: relative;
-    top: 100px;
+float: left;
+position: relative;
+left: 0%;
+
 }
 
 #space1{
