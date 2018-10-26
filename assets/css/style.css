@@ -14,9 +14,9 @@ body {
     background-color: #ffffff;
     padding: 10px;
     overflow: hidden;
-float: left;
-position: relative;
-left: 9%;
+    float: left;
+    position: relative;
+    left: 9%;
 }
 
 .textbox {
