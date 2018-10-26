@@ -17,10 +17,11 @@ body {
     float: left;
     position: relative;
     left: 14%;
+padding: 30px;
 }
 
 .textbox {
-    margin: 5px 25px 25px 25px;
+    margin: 5px 25px 25px 0px;
     border-top: solid 1pt #cccccc;
     padding-top: 20px;
 }
@@ -39,7 +40,7 @@ p {
     float: left;
     width: 200px;
     height: 200px;
-    margin: 0px 20px 10px 20px;
+    margin: 0px 20px 10px 0px;
 }
 
 .imageleft {
@@ -78,7 +79,7 @@ h2 {
     font-variant-caps: all-petite-caps;
     margin-bottom: 5px;
     position: relative;
-    left: 3%;
+    /*left: 3%;*/
 }
 
 a:link {
