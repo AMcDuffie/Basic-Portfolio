@@ -1,5 +1,5 @@
 body {
-    background-color: #efeee7;
+    background-image: url("assets/images/wall4.png");
     font-style: Georgia,"Times New Roman",Times,serif;
     color: #333333;
     margin: 0 auto;
@@ -12,12 +12,13 @@ body {
     margin: 30px;
     margin-top: 30px;
     background-color: #ffffff;
+    border: solid 1pt #dddddd;
     padding: 10px;
     overflow: hidden;
     float: left;
     position: relative;
     left: 14%;
-padding: 30px;
+    padding: 30px;
 }
 
 .textbox {
@@ -79,7 +80,6 @@ h2 {
     font-variant-caps: all-petite-caps;
     margin-bottom: 5px;
     position: relative;
-    /*left: 3%;*/
 }
 
 a:link {
@@ -200,4 +200,19 @@ header {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     margin-bottom: 5px;
+}
+
+#image-container {
+    position: relative;
+    background-color: red;
+
+}
+
+.text-block {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 5px;
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
 }
